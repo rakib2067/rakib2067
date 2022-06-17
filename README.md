@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rakib2067
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React, Django, Flask and Express
+- 🌱 I’m currently learning TypeScript
 - 📫 How to reach me:
     - Email: rakib7@hotmail.co.uk 
     - Twitter: [@Rakib_A1](https://mobile.twitter.com/Rakib_A1)
