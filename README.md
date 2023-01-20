@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rakib2067
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning TypeScript
+- 👀 I’m a backend engineer at [CryptoCompare](https://www.cryptocompare.com/)
+- 🌱 I’m currently learning TypeScript and looking to further my knowledge in Backend Engineering and System Design
 - 📫 How to reach me:
     - Email: rakib7@hotmail.co.uk 
     - Twitter: [@Rakib_A1](https://mobile.twitter.com/Rakib_A1)
